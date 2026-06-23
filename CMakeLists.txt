@@ -34,6 +34,8 @@ target_link_libraries(game PRIVATE
     "sfml-graphics"
     "sfml-window"
     "sfml-system"
+
+    "engine_core"
 )
 # ----------------
 
